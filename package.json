@@ -1,0 +1,21 @@
+{
+  "name": "blooketroll",
+  "version": "1.0.0",
+  "description": "A simple script to spam blooket connections.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "blooket",
+    "troll",
+    "spam"
+  ],
+  "author": "Milk_Cool",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "readline-sync": "^1.4.10",
+    "ws": "^8.11.0"
+  }
+}
